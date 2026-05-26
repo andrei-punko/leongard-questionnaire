@@ -1,10 +1,17 @@
 # Опросник Леонгарда - Акцентуации характера
 
+[![pages-build-deployment](https://github.com/andrei-punko/leongard-questionnaire/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/andrei-punko/leongard-questionnaire/actions/workflows/pages/pages-build-deployment)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 Веб-версия характерологического опросника К. Леонгарда (88 вопросов, 10 шкал акцентуаций). Ответы обрабатываются локально в браузере.
 
-## Запуск
+## Запуск онлайн
 
-Откройте [`index.html`](index.html) в браузере.
+Откройте [опросник онлайн](https://andrei-punko.github.io/leongard-questionnaire/) или
+
+## Запуск локально
+
+Откройте локальный [`index.html`](index.html) в браузере.
 
 При необходимости можно поднять простой сервер:
 
